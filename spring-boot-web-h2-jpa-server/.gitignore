@@ -2,7 +2,7 @@
 /h2/
 /target/
 
-### STS ###
+### STS
 .apt_generated
 .classpath
 .factorypath
@@ -11,13 +11,13 @@
 .springBeans
 .sts4-cache
 
-### IntelliJ IDEA ###
+### IntelliJ IDEA
 *.iml
 *.ipr
 *.iws
 .idea
 
-### NetBeans ###
+### NetBeans
 /.nb-gradle/
 /build/
 /dist/
